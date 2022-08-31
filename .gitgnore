@@ -2,6 +2,7 @@
 *~
 __pycache__
 ABvirtual
+main.py
 db.sqlite3
 /static
 .DS_Store
